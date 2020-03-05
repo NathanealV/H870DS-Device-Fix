@@ -1,2 +1,2 @@
 BACKUP=y
-persistradio.multisim.config=dsds
+persist.radio.multisim.config=dsds
