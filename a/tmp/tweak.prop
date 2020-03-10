@@ -1,3 +1,2 @@
 BACKUP=y
 persist.radio.multisim.config=dsds
-ro.product.system.model=LG-H870DS
